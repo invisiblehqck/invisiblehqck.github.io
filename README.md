@@ -1,7 +1,7 @@
 # Satyam Gupta | Portfolio
 
-Live site: https://invisiblehqck.github.io/
-ONEWHO address: https://invisiblehqck.isonewho.codes/
+Live site: <https://invisiblehqck.github.io/>
+ONEWHO address: <https://invisiblehqck.isonewho.codes/>
 
 My personal portfolio for One Who Codes 2026. It shows who I am (full-stack developer, cybersecurity and digital forensics intern, AI/ML student, founder of The AI GUY), what I build, and how to reach me.
 
@@ -33,10 +33,10 @@ Open `index.html` in a browser. There is nothing to install.
 ## Files
 
 - `index.html`: the page, styles and scripts
-- `assets/`: images and the WiFi Radar demo video
+- `assets/`: images (WebP, with a PNG fallback for the profile photo) and the WiFi Radar demo video
 - `og.jpg`: social preview image
 - `sitemap.xml`, `robots.txt`: search engine files
 
 ## Contact
 
-satyamgupta97180@gmail.com · [GitHub](https://github.com/invisiblehqck) · [LinkedIn](https://www.linkedin.com/in/satyam-gupta-0b0637294/) · [YouTube](https://www.youtube.com/@The_AI_gUi)
+<satyamgupta97180@gmail.com> · [GitHub](https://github.com/invisiblehqck) · [LinkedIn](https://www.linkedin.com/in/satyam-gupta-0b0637294/) · [YouTube](https://www.youtube.com/@The_AI_gUi)
