@@ -32,7 +32,8 @@ Open `index.html` in a browser. There is nothing to install.
 
 ## Files
 
-- `index.html`: the whole site
+- `index.html`: the page, styles and scripts
+- `assets/`: images and the WiFi Radar demo video
 - `og.jpg`: social preview image
 - `sitemap.xml`, `robots.txt`: search engine files
 
